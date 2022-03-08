@@ -10,6 +10,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.26.0",
     "expo": "~44.0.0",
     "expo-constants": "~13.0.1",
     "expo-status-bar": "~1.2.0",
@@ -19,7 +20,9 @@
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "csv-parse": "^5.0.4",
+    "node-fetch": "^3.2.2"
   },
   "extra": {
     "newsApiKey": "dff3a4919e9d4ae2a039a62e32e1b9e4"
