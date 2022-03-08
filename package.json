@@ -21,5 +21,8 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
+  "extra": {
+    "newsApiKey": "dff3a4919e9d4ae2a039a62e32e1b9e4"
+  },
   "private": true
 }
